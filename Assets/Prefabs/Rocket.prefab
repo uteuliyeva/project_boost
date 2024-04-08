@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8652104995786928349}
   - component: {fileID: 8929409756411768504}
   - component: {fileID: 7147330592928791085}
+  - component: {fileID: 4636652389802316072}
   m_Layer: 0
   m_Name: Rocket
   m_TagString: Player
@@ -225,6 +226,18 @@ MonoBehaviour:
   mainThrustParticle: {fileID: 1054084536445701939}
   leftThrustParticle: {fileID: 7232076430029607484}
   rightThrustParticle: {fileID: 7093929741544533024}
+--- !u!114 &4636652389802316072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 840270280883358524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9c802149fdb83489a78bc0cfb04c65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4563947127369646093
 GameObject:
   m_ObjectHideFlags: 0
