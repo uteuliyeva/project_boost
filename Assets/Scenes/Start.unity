@@ -1546,7 +1546,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8771330300981356066, guid: 5380266d2eaf94f3d94e281aa718c26e, type: 3}
   m_PrefabInstance: {fileID: 1967802044}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1968802184
+--- !u!1001 &1977431288
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1796,7 +1796,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4404180986173404546, guid: 9a85b90bd8388754c81e0739de5738d4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.16
+      value: 2.2
       objectReference: {fileID: 0}
     - target: {fileID: 4404180986173404546, guid: 9a85b90bd8388754c81e0739de5738d4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1837,10 +1837,6 @@ PrefabInstance:
     - target: {fileID: 4952955082163700915, guid: 9a85b90bd8388754c81e0739de5738d4, type: 3}
       propertyPath: m_Name
       value: Central Obstacle
-      objectReference: {fileID: 0}
-    - target: {fileID: 6921386522697765937, guid: 9a85b90bd8388754c81e0739de5738d4, type: 3}
-      propertyPath: period
-      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2148,4 +2144,4 @@ SceneRoots:
   - {fileID: 840270280129759135}
   - {fileID: 1028060435}
   - {fileID: 2187884970670921756}
-  - {fileID: 1968802184}
+  - {fileID: 1977431288}
