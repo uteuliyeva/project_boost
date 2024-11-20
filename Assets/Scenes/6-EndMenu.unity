@@ -431,16 +431,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2444464737934133746, guid: f1084864b733f4bc79cfa1bb2973e9d9, type: 3}
       propertyPath: m_text
-      value: 'Congratulations!
-
-
-        You have successfully completed all five
-        levels of Project Boost. Your skill and determination have guided the rocket
-        safely through space to every green platform.
-
-
-        Thank you for playing
-        and proving yourself as a true space explorer. Great job, captain.'
+      value: "Congratulations!\n\nYou have successfully completed all five levels
+        of Project Boost. Your skill and determination have guided the rocket safely
+        through space to every green platform.\n\nThank you for playing and proving
+        yourself as a true space explorer. \nGreat job, captain."
       objectReference: {fileID: 0}
     - target: {fileID: 2444464737934133746, guid: f1084864b733f4bc79cfa1bb2973e9d9, type: 3}
       propertyPath: m_fontSize
